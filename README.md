@@ -3,7 +3,7 @@
 An interactive, step-by-step course on **serverless on AWS** for Cloud Engineers and AI-automation builders: Lambda in depth (handlers, cold starts, memory, concurrency, versions), API Gateway, DynamoDB, S3 triggers, SQS, SNS & EventBridge, Step Functions, idempotency, observability and serverless security, ending with a production-style capstone. Every lesson animates how events flow through the system, with analogies, memory hooks, trigger words, quizzes, and a **Lambda Lab** where you write real Python handlers that run in your browser against a simulated AWS.
 
 > Created by **Raul** ([@rmctech-ai](https://github.com/rmctech-ai)) · Freelance AI Automation Specialist on the path to Cloud Security.
-> Part of the Explorer series: [Linux Explorer](https://github.com/rmctech-ai/linux-explorer) · [Python Explorer](https://github.com/rmctech-ai/python-explorer) · [IAM Explorer](https://github.com/rmctech-ai/iam-explorer) · [VPC Explorer](https://github.com/rmctech-ai/vpc-explorer) · [IaC Explorer](https://github.com/rmctech-ai/iac-explorer) · [CI/CD Explorer](https://github.com/rmctech-ai/cicd-explorer) · [Cloud Security Explorer](https://github.com/rmctech-ai/cloudsecurity-explorer) · [Well-Architected Explorer](https://github.com/rmctech-ai/wellarchitected-explorer) · [Security Journey Explorer](https://github.com/rmctech-ai/aws-security-journey) · [n8n Explorer](https://github.com/rmctech-ai/n8n-explorer) · [Claude Code Explorer](https://github.com/rmctech-ai/claudecode-explorer).
+> Part of the Explorer series: [Linux Explorer](https://github.com/rmctech-ai/linux-explorer) · [Python Explorer](https://github.com/rmctech-ai/python-explorer) · [IAM Explorer](https://github.com/rmctech-ai/iam-explorer) · [VPC Explorer](https://github.com/rmctech-ai/vpc-explorer) · [IaC Explorer](https://github.com/rmctech-ai/iac-explorer) · [CI/CD Explorer](https://github.com/rmctech-ai/cicd-explorer) · [Cloud Security Explorer](https://github.com/rmctech-ai/cloudsecurity-explorer) · [Well-Architected Explorer](https://github.com/rmctech-ai/wellarchitected-explorer) · [Security Journey Explorer](https://github.com/rmctech-ai/aws-security-journey) · [n8n Explorer](https://github.com/rmctech-ai/n8n-explorer) · [Claude Code Explorer](https://github.com/rmctech-ai/claudecode-explorer) · [SAA Explorer](https://github.com/rmctech-ai/saa-explorer).
 > 🏠 Part of **[Raul's Cloud Learning Hub](https://rmctech-ai.github.io/)** · Live course: https://rmctech-ai.github.io/Serverless-Explorer/
 > The Explorer course format is inspired by [Protocol Explorer](https://protocol-explorer-alpha.vercel.app/) by Dilum Sanjaya. All lessons, labs and study tools are my own work.
 
@@ -23,10 +23,10 @@ python3 -m http.server 8000     # then open http://localhost:8000
 ```bash
 git init && git add . && git commit -m "Serverless Explorer"
 git branch -M main
-git remote add origin https://github.com/rmctech-ai/serverless-explorer.git
+git remote add origin https://github.com/rmctech-ai/Serverless-Explorer.git
 git push -u origin main
 ```
-GitHub → **Settings → Pages → Deploy from a branch → `main` / root → Save** → `https://rmctech-ai.github.io/serverless-explorer/`
+GitHub → **Settings → Pages → Deploy from a branch → `main` / root → Save** → `https://rmctech-ai.github.io/Serverless-Explorer/`
 
 ---
 
